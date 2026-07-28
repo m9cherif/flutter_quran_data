@@ -1,716 +1,644 @@
 {
-  "name": "page553",
-  "audio_file": "C:/trav_quran2/audio/trabelsi/062.mp3",
+  "name": "page557",
+  "audio_file": "C:/trav_quran2/audio/trabelsi/064.mp3",
   "audio_start_pos": 0,
-  "recording_duration": 259586,
+  "recording_duration": 340076,
   "events": [
     {
-      "time": 35,
+      "time": 191468,
       "word_id": 1,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 7407,
+      "time": 192975,
       "word_id": 2,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 8427,
+      "time": 194023,
       "word_id": 3,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 9201,
+      "time": 195472,
       "word_id": 4,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 9806,
+      "time": 197866,
       "word_id": 5,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 11016,
+      "time": 200086,
       "word_id": 6,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 11904,
+      "time": 201230,
       "word_id": 7,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 12512,
+      "time": 202969,
       "word_id": 8,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 13190,
+      "time": 203901,
       "word_id": 9,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 14107,
+      "time": 206398,
       "word_id": 10,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 15454,
+      "time": 207160,
       "word_id": 11,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 17199,
+      "time": 209798,
       "word_id": 12,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 19852,
+      "time": 210363,
       "word_id": 13,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 20429,
+      "time": 211062,
       "word_id": 14,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 21198,
+      "time": 212076,
       "word_id": 15,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 21861,
+      "time": 213459,
       "word_id": 16,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 22407,
+      "time": 214720,
       "word_id": 17,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 24339,
+      "time": 215821,
       "word_id": 18,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 25579,
+      "time": 217983,
       "word_id": 19,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 27510,
+      "time": 218898,
       "word_id": 20,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 28553,
+      "time": 221755,
       "word_id": 21,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 29860,
+      "time": 222366,
       "word_id": 22,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 31845,
+      "time": 222988,
       "word_id": 23,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 37096,
+      "time": 224986,
       "word_id": 24,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 38862,
+      "time": 225741,
       "word_id": 25,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 40284,
+      "time": 226699,
       "word_id": 26,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 41616,
+      "time": 227640,
       "word_id": 27,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 43179,
+      "time": 229998,
       "word_id": 28,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 44593,
+      "time": 230757,
       "word_id": 29,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 45583,
+      "time": 231723,
       "word_id": 30,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 46309,
+      "time": 232949,
       "word_id": 31,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 47003,
+      "time": 235698,
       "word_id": 32,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 48691,
+      "time": 236906,
       "word_id": 33,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 51657,
+      "time": 238445,
       "word_id": 34,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 53023,
+      "time": 240910,
       "word_id": 35,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 54434,
+      "time": 241637,
       "word_id": 36,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 56425,
+      "time": 242855,
       "word_id": 37,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 57705,
+      "time": 244046,
       "word_id": 38,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 59516,
+      "time": 246513,
       "word_id": 39,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 60191,
+      "time": 247376,
       "word_id": 40,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 61515,
+      "time": 247953,
       "word_id": 41,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 64184,
+      "time": 248769,
       "word_id": 42,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 64905,
+      "time": 249777,
       "word_id": 43,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 65843,
+      "time": 251131,
       "word_id": 44,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 66827,
+      "time": 251903,
       "word_id": 45,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 67781,
+      "time": 252601,
       "word_id": 46,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 69104,
+      "time": 254701,
       "word_id": 47,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 71764,
+      "time": 257195,
       "word_id": 48,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 72651,
+      "time": 258043,
       "word_id": 49,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 73373,
+      "time": 259197,
       "word_id": 50,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 74310,
+      "time": 260995,
       "word_id": 51,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 77373,
+      "time": 262489,
       "word_id": 52,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 78040,
+      "time": 263012,
       "word_id": 53,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 78939,
+      "time": 264296,
       "word_id": 54,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 80930,
+      "time": 266113,
       "word_id": 55,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 81943,
+      "time": 267145,
       "word_id": 56,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 83771,
+      "time": 268184,
       "word_id": 57,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 84700,
+      "time": 271309,
       "word_id": 58,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 86059,
+      "time": 272342,
       "word_id": 59,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 86990,
+      "time": 273294,
       "word_id": 60,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 88177,
+      "time": 274733,
       "word_id": 61,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 89163,
+      "time": 276408,
       "word_id": 62,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 91986,
+      "time": 277957,
       "word_id": 63,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 92699,
+      "time": 278749,
       "word_id": 64,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 93623,
+      "time": 279761,
       "word_id": 65,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 94746,
+      "time": 282435,
       "word_id": 66,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 95700,
+      "time": 284043,
       "word_id": 67,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 97210,
+      "time": 285565,
       "word_id": 68,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 98330,
+      "time": 287467,
       "word_id": 69,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 102117,
+      "time": 289241,
       "word_id": 70,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 102835,
+      "time": 290126,
       "word_id": 71,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 103527,
+      "time": 292334,
       "word_id": 72,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 104440,
+      "time": 293122,
       "word_id": 73,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 105549,
+      "time": 295769,
       "word_id": 74,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 108740,
+      "time": 296365,
       "word_id": 75,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 109241,
+      "time": 297100,
       "word_id": 76,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 110822,
+      "time": 297780,
       "word_id": 77,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 111790,
+      "time": 298996,
       "word_id": 78,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 112827,
+      "time": 300369,
       "word_id": 79,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 113969,
+      "time": 301785,
       "word_id": 80,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 115148,
+      "time": 303809,
       "word_id": 81,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 117053,
+      "time": 304821,
       "word_id": 82,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 119507,
+      "time": 308089,
       "word_id": 83,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 120551,
+      "time": 308951,
       "word_id": 84,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 122191,
+      "time": 309862,
       "word_id": 85,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 122797,
+      "time": 310662,
       "word_id": 86,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 124320,
+      "time": 311804,
       "word_id": 87,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 129086,
+      "time": 314111,
       "word_id": 88,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 130285,
+      "time": 315029,
       "word_id": 89,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 131738,
+      "time": 317793,
       "word_id": 90,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 134455,
+      "time": 318525,
       "word_id": 91,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 136812,
+      "time": 319286,
       "word_id": 92,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 137621,
+      "time": 320234,
       "word_id": 93,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 140114,
+      "time": 321397,
       "word_id": 94,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 141746,
+      "time": 322748,
       "word_id": 95,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 142550,
+      "time": 324183,
       "word_id": 96,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 143478,
+      "time": 325164,
       "word_id": 97,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 146041,
+      "time": 326165,
       "word_id": 98,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 146968,
+      "time": 327918,
       "word_id": 99,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 149181,
+      "time": 328715,
       "word_id": 100,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 152341,
+      "time": 329728,
       "word_id": 101,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 153176,
+      "time": 332543,
       "word_id": 102,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 154830,
+      "time": 333205,
       "word_id": 103,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 155538,
+      "time": 334097,
       "word_id": 104,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 156516,
+      "time": 335833,
       "word_id": 105,
       "action": "show",
-      "page": "553"
+      "page": "557"
     },
     {
-      "time": 157688,
+      "time": 336923,
       "word_id": 106,
       "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 158792,
-      "word_id": 107,
-      "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 161447,
-      "word_id": 108,
-      "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 164040,
-      "word_id": 109,
-      "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 165508,
-      "word_id": 110,
-      "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 166728,
-      "word_id": 111,
-      "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 167699,
-      "word_id": 112,
-      "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 168508,
-      "word_id": 113,
-      "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 169472,
-      "word_id": 114,
-      "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 171068,
-      "word_id": 115,
-      "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 173912,
-      "word_id": 116,
-      "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 175033,
-      "word_id": 117,
-      "action": "show",
-      "page": "553"
-    },
-    {
-      "time": 176777,
-      "word_id": 118,
-      "action": "show",
-      "page": "553"
+      "page": "557"
     }
   ]
 }
