@@ -1,0 +1,236 @@
+{
+  "name": "page604",
+  "audio_file": "G:/trabelsi/112.mp3",
+  "audio_start_pos": 0,
+  "recording_duration": 21119,
+  "events": [
+    {
+      "time": 0,
+      "word_id": 16,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 15,
+      "word_id": 1,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 6179,
+      "word_id": 17,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 6244,
+      "word_id": 2,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 6808,
+      "word_id": 3,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 7017,
+      "word_id": 18,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 7954,
+      "word_id": 4,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 8466,
+      "word_id": 19,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 9395,
+      "word_id": 5,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 10028,
+      "word_id": 20,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 10391,
+      "word_id": 6,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 10728,
+      "word_id": 21,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 11422,
+      "word_id": 22,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 11999,
+      "word_id": 23,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 12195,
+      "word_id": 7,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 12786,
+      "word_id": 8,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 13328,
+      "word_id": 24,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 13384,
+      "word_id": 9,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 14313,
+      "word_id": 10,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 14344,
+      "word_id": 25,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 15041,
+      "word_id": 26,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 15577,
+      "word_id": 11,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 15782,
+      "word_id": 27,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 16114,
+      "word_id": 12,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 16688,
+      "word_id": 13,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 16983,
+      "word_id": 28,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 17415,
+      "word_id": 14,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 18206,
+      "word_id": 29,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 18495,
+      "word_id": 15,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 19581,
+      "word_id": 30,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 20336,
+      "word_id": 31,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 21416,
+      "word_id": 32,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 22671,
+      "word_id": 33,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 24084,
+      "word_id": 34,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 25200,
+      "word_id": 35,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 26231,
+      "word_id": 36,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 27332,
+      "word_id": 37,
+      "action": "show",
+      "page": "604"
+    },
+    {
+      "time": 28226,
+      "word_id": 38,
+      "action": "show",
+      "page": "604"
+    }
+  ]
+}
