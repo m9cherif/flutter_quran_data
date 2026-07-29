@@ -1,0 +1,686 @@
+[
+  {
+    "num_soura": 1,
+    "soura": "الفَاتِحة",
+    "num_page": 1,
+    "nbr_aya": 7
+  },
+  {
+    "num_soura": 2,
+    "soura": "البَقَرَة",
+    "num_page": 2,
+    "nbr_aya": 287
+  },
+  {
+    "num_soura": 3,
+    "soura": "آل عِمران",
+    "num_page": 50,
+    "nbr_aya": 200
+  },
+  {
+    "num_soura": 4,
+    "soura": "النِّسَاء",
+    "num_page": 77,
+    "nbr_aya": 176
+  },
+  {
+    "num_soura": 5,
+    "soura": "المَائدة",
+    "num_page": 106,
+    "nbr_aya": 120
+  },
+  {
+    "num_soura": 6,
+    "soura": "الأنعَام",
+    "num_page": 128,
+    "nbr_aya": 165
+  },
+  {
+    "num_soura": 7,
+    "soura": "الأعرَاف",
+    "num_page": 151,
+    "nbr_aya": 206
+  },
+  {
+    "num_soura": 8,
+    "soura": "الأنفَال",
+    "num_page": 177,
+    "nbr_aya": 75
+  },
+  {
+    "num_soura": 9,
+    "soura": "التوبَة",
+    "num_page": 187,
+    "nbr_aya": 129
+  },
+  {
+    "num_soura": 10,
+    "soura": "يُونس",
+    "num_page": 208,
+    "nbr_aya": 109
+  },
+  {
+    "num_soura": 11,
+    "soura": "هُود",
+    "num_page": 221,
+    "nbr_aya": 123
+  },
+  {
+    "num_soura": 12,
+    "soura": "يُوسُف",
+    "num_page": 235,
+    "nbr_aya": 111
+  },
+  {
+    "num_soura": 13,
+    "soura": "الرَّعد",
+    "num_page": 249,
+    "nbr_aya": 43
+  },
+  {
+    "num_soura": 14,
+    "soura": "إبراهِيم",
+    "num_page": 255,
+    "nbr_aya": 52
+  },
+  {
+    "num_soura": 15,
+    "soura": "الحِجر",
+    "num_page": 262,
+    "nbr_aya": 99
+  },
+  {
+    "num_soura": 16,
+    "soura": "النَّحل",
+    "num_page": 267,
+    "nbr_aya": 128
+  },
+  {
+    "num_soura": 17,
+    "soura": "الإسرَاء",
+    "num_page": 282,
+    "nbr_aya": 111
+  },
+  {
+    "num_soura": 18,
+    "soura": "الكَهف",
+    "num_page": 293,
+    "nbr_aya": 110
+  },
+  {
+    "num_soura": 19,
+    "soura": "مَريَم",
+    "num_page": 305,
+    "nbr_aya": 98
+  },
+  {
+    "num_soura": 20,
+    "soura": "طه",
+    "num_page": 312,
+    "nbr_aya": 135
+  },
+  {
+    "num_soura": 21,
+    "soura": "الأنبيَاء",
+    "num_page": 322,
+    "nbr_aya": 112
+  },
+  {
+    "num_soura": 22,
+    "soura": "الحج",
+    "num_page": 332,
+    "nbr_aya": 78
+  },
+  {
+    "num_soura": 23,
+    "soura": "المؤمنُون",
+    "num_page": 342,
+    "nbr_aya": 118
+  },
+  {
+    "num_soura": 24,
+    "soura": "النور",
+    "num_page": 350,
+    "nbr_aya": 64
+  },
+  {
+    "num_soura": 25,
+    "soura": "الفُرقَان",
+    "num_page": 359,
+    "nbr_aya": 77
+  },
+  {
+    "num_soura": 26,
+    "soura": "الشعراء",
+    "num_page": 367,
+    "nbr_aya": 227
+  },
+  {
+    "num_soura": 27,
+    "soura": "النَّمل",
+    "num_page": 377,
+    "nbr_aya": 93
+  },
+  {
+    "num_soura": 28,
+    "soura": "القَصَص",
+    "num_page": 385,
+    "nbr_aya": 88
+  },
+  {
+    "num_soura": 29,
+    "soura": "العَنكبُوت",
+    "num_page": 396,
+    "nbr_aya": 69
+  },
+  {
+    "num_soura": 30,
+    "soura": "الرُّوم",
+    "num_page": 404,
+    "nbr_aya": 60
+  },
+  {
+    "num_soura": 31,
+    "soura": "لُقمَان",
+    "num_page": 411,
+    "nbr_aya": 34
+  },
+  {
+    "num_soura": 32,
+    "soura": "السَّجدة",
+    "num_page": 415,
+    "nbr_aya": 30
+  },
+  {
+    "num_soura": 33,
+    "soura": "الأحزَاب",
+    "num_page": 418,
+    "nbr_aya": 73
+  },
+  {
+    "num_soura": 34,
+    "soura": "سَبإ",
+    "num_page": 428,
+    "nbr_aya": 54
+  },
+  {
+    "num_soura": 35,
+    "soura": "فَاطِر",
+    "num_page": 434,
+    "nbr_aya": 45
+  },
+  {
+    "num_soura": 36,
+    "soura": "يسٓ",
+    "num_page": 440,
+    "nbr_aya": 83
+  },
+  {
+    "num_soura": 37,
+    "soura": "الصَّافَات",
+    "num_page": 446,
+    "nbr_aya": 182
+  },
+  {
+    "num_soura": 38,
+    "soura": "صٓ",
+    "num_page": 453,
+    "nbr_aya": 88
+  },
+  {
+    "num_soura": 39,
+    "soura": "الزُّمَر",
+    "num_page": 458,
+    "nbr_aya": 75
+  },
+  {
+    "num_soura": 40,
+    "soura": "غَافِر",
+    "num_page": 467,
+    "nbr_aya": 85
+  },
+  {
+    "num_soura": 41,
+    "soura": "فُصِّلَت",
+    "num_page": 477,
+    "nbr_aya": 54
+  },
+  {
+    "num_soura": 42,
+    "soura": "الشُّوري",
+    "num_page": 483,
+    "nbr_aya": 53
+  },
+  {
+    "num_soura": 43,
+    "soura": "الزُّخرُف",
+    "num_page": 489,
+    "nbr_aya": 89
+  },
+  {
+    "num_soura": 44,
+    "soura": "الدُّخان",
+    "num_page": 496,
+    "nbr_aya": 59
+  },
+  {
+    "num_soura": 45,
+    "soura": "الجاثِية",
+    "num_page": 499,
+    "nbr_aya": 37
+  },
+  {
+    "num_soura": 46,
+    "soura": "الأحقَاف",
+    "num_page": 502,
+    "nbr_aya": 35
+  },
+  {
+    "num_soura": 47,
+    "soura": "مُحمد",
+    "num_page": 507,
+    "nbr_aya": 38
+  },
+  {
+    "num_soura": 48,
+    "soura": "الفَتح",
+    "num_page": 511,
+    "nbr_aya": 29
+  },
+  {
+    "num_soura": 49,
+    "soura": "الحُجُرَات",
+    "num_page": 515,
+    "nbr_aya": 18
+  },
+  {
+    "num_soura": 50,
+    "soura": "قٓ",
+    "num_page": 518,
+    "nbr_aya": 45
+  },
+  {
+    "num_soura": 51,
+    "soura": "الذَّاريَات",
+    "num_page": 520,
+    "nbr_aya": 60
+  },
+  {
+    "num_soura": 52,
+    "soura": "الطُّور",
+    "num_page": 523,
+    "nbr_aya": 49
+  },
+  {
+    "num_soura": 53,
+    "soura": "النَّجم",
+    "num_page": 526,
+    "nbr_aya": 62
+  },
+  {
+    "num_soura": 54,
+    "soura": "القَمَر",
+    "num_page": 528,
+    "nbr_aya": 55
+  },
+  {
+    "num_soura": 55,
+    "soura": "الرَّحمٰن",
+    "num_page": 531,
+    "nbr_aya": 78
+  },
+  {
+    "num_soura": 56,
+    "soura": "الوَاقِعة",
+    "num_page": 534,
+    "nbr_aya": 96
+  },
+  {
+    "num_soura": 57,
+    "soura": "الحدِيد",
+    "num_page": 537,
+    "nbr_aya": 29
+  },
+  {
+    "num_soura": 58,
+    "soura": "المُجَادلة",
+    "num_page": 542,
+    "nbr_aya": 22
+  },
+  {
+    "num_soura": 59,
+    "soura": "الحَشر",
+    "num_page": 545,
+    "nbr_aya": 24
+  },
+  {
+    "num_soura": 60,
+    "soura": "المُمتَحنَة",
+    "num_page": 549,
+    "nbr_aya": 13
+  },
+  {
+    "num_soura": 61,
+    "soura": "الصَّف",
+    "num_page": 551,
+    "nbr_aya": 14
+  },
+  {
+    "num_soura": 62,
+    "soura": "الجُمعَة",
+    "num_page": 553,
+    "nbr_aya": 11
+  },
+  {
+    "num_soura": 63,
+    "soura": "المُنَافِقُونَ",
+    "num_page": 554,
+    "nbr_aya": 11
+  },
+  {
+    "num_soura": 64,
+    "soura": "التغَابُن",
+    "num_page": 556,
+    "nbr_aya": 18
+  },
+  {
+    "num_soura": 65,
+    "soura": "الطَّلَاق",
+    "num_page": 558,
+    "nbr_aya": 12
+  },
+  {
+    "num_soura": 66,
+    "soura": "التَّحرِيم",
+    "num_page": 560,
+    "nbr_aya": 12
+  },
+  {
+    "num_soura": 67,
+    "soura": "المُلك",
+    "num_page": 562,
+    "nbr_aya": 30
+  },
+  {
+    "num_soura": 68,
+    "soura": "القَلَم",
+    "num_page": 564,
+    "nbr_aya": 52
+  },
+  {
+    "num_soura": 69,
+    "soura": "الحَاقة",
+    "num_page": 566,
+    "nbr_aya": 52
+  },
+  {
+    "num_soura": 70,
+    "soura": "المَعَارج",
+    "num_page": 568,
+    "nbr_aya": 44
+  },
+  {
+    "num_soura": 71,
+    "soura": "نُوح",
+    "num_page": 570,
+    "nbr_aya": 28
+  },
+  {
+    "num_soura": 72,
+    "soura": "الجِن",
+    "num_page": 572,
+    "nbr_aya": 28
+  },
+  {
+    "num_soura": 73,
+    "soura": "المُزمل",
+    "num_page": 574,
+    "nbr_aya": 20
+  },
+  {
+    "num_soura": 74,
+    "soura": "المُدثر",
+    "num_page": 575,
+    "nbr_aya": 56
+  },
+  {
+    "num_soura": 75,
+    "soura": "القِيَامة",
+    "num_page": 577,
+    "nbr_aya": 40
+  },
+  {
+    "num_soura": 76,
+    "soura": "الإنسَان",
+    "num_page": 578,
+    "nbr_aya": 31
+  },
+  {
+    "num_soura": 77,
+    "soura": "المُرسَلات",
+    "num_page": 580,
+    "nbr_aya": 50
+  },
+  {
+    "num_soura": 78,
+    "soura": "النَّبَإ",
+    "num_page": 582,
+    "nbr_aya": 40
+  },
+  {
+    "num_soura": 79,
+    "soura": "النَّازعَات",
+    "num_page": 583,
+    "nbr_aya": 46
+  },
+  {
+    "num_soura": 80,
+    "soura": "عَبَسَ",
+    "num_page": 585,
+    "nbr_aya": 42
+  },
+  {
+    "num_soura": 81,
+    "soura": "التَّكوير",
+    "num_page": 586,
+    "nbr_aya": 29
+  },
+  {
+    "num_soura": 82,
+    "soura": "الانفِطَار",
+    "num_page": 587,
+    "nbr_aya": 19
+  },
+  {
+    "num_soura": 83,
+    "soura": "المُطَففين",
+    "num_page": 587,
+    "nbr_aya": 36
+  },
+  {
+    "num_soura": 84,
+    "soura": "الانشِقَاق",
+    "num_page": 589,
+    "nbr_aya": 25
+  },
+  {
+    "num_soura": 85,
+    "soura": "البُرُوج",
+    "num_page": 590,
+    "nbr_aya": 22
+  },
+  {
+    "num_soura": 86,
+    "soura": "الطَّارق",
+    "num_page": 591,
+    "nbr_aya": 17
+  },
+  {
+    "num_soura": 87,
+    "soura": "الأعلى",
+    "num_page": 591,
+    "nbr_aya": 19
+  },
+  {
+    "num_soura": 88,
+    "soura": "الغَاشِية",
+    "num_page": 592,
+    "nbr_aya": 26
+  },
+  {
+    "num_soura": 89,
+    "soura": "الفَجر",
+    "num_page": 593,
+    "nbr_aya": 30
+  },
+  {
+    "num_soura": 90,
+    "soura": "البَلَد",
+    "num_page": 594,
+    "nbr_aya": 20
+  },
+  {
+    "num_soura": 91,
+    "soura": "الشَّمس",
+    "num_page": 595,
+    "nbr_aya": 15
+  },
+  {
+    "num_soura": 92,
+    "soura": "اللَّيل",
+    "num_page": 595,
+    "nbr_aya": 21
+  },
+  {
+    "num_soura": 93,
+    "soura": "الضُّحى",
+    "num_page": 596,
+    "nbr_aya": 11
+  },
+  {
+    "num_soura": 94,
+    "soura": "الشَّرح",
+    "num_page": 596,
+    "nbr_aya": 8
+  },
+  {
+    "num_soura": 95,
+    "soura": "التِّين",
+    "num_page": 597,
+    "nbr_aya": 8
+  },
+  {
+    "num_soura": 96,
+    "soura": "العَلَق",
+    "num_page": 597,
+    "nbr_aya": 19
+  },
+  {
+    "num_soura": 97,
+    "soura": "القَدر",
+    "num_page": 598,
+    "nbr_aya": 5
+  },
+  {
+    "num_soura": 98,
+    "soura": "البَينَة",
+    "num_page": 598,
+    "nbr_aya": 8
+  },
+  {
+    "num_soura": 99,
+    "soura": "الزَّلزَلة",
+    "num_page": 599,
+    "nbr_aya": 8
+  },
+  {
+    "num_soura": 100,
+    "soura": "العَاديَات",
+    "num_page": 599,
+    "nbr_aya": 11
+  },
+  {
+    "num_soura": 101,
+    "soura": "القَارعَة",
+    "num_page": 600,
+    "nbr_aya": 11
+  },
+  {
+    "num_soura": 102,
+    "soura": "التَّكاثُر",
+    "num_page": 600,
+    "nbr_aya": 8
+  },
+  {
+    "num_soura": 103,
+    "soura": "العَصر",
+    "num_page": 601,
+    "nbr_aya": 3
+  },
+  {
+    "num_soura": 104,
+    "soura": "الهُمَزة",
+    "num_page": 601,
+    "nbr_aya": 9
+  },
+  {
+    "num_soura": 105,
+    "soura": "الفِيل",
+    "num_page": 601,
+    "nbr_aya": 5
+  },
+  {
+    "num_soura": 106,
+    "soura": "قُرَيش",
+    "num_page": 602,
+    "nbr_aya": 4
+  },
+  {
+    "num_soura": 107,
+    "soura": "المَاعُون",
+    "num_page": 602,
+    "nbr_aya": 7
+  },
+  {
+    "num_soura": 108,
+    "soura": "الكَوثر",
+    "num_page": 602,
+    "nbr_aya": 3
+  },
+  {
+    "num_soura": 109,
+    "soura": "الكافِرون",
+    "num_page": 603,
+    "nbr_aya": 6
+  },
+  {
+    "num_soura": 110,
+    "soura": "النَّصر",
+    "num_page": 603,
+    "nbr_aya": 3
+  },
+  {
+    "num_soura": 111,
+    "soura": "المَسَد",
+    "num_page": 603,
+    "nbr_aya": 5
+  },
+  {
+    "num_soura": 112,
+    "soura": "الإخلَاص",
+    "num_page": 604,
+    "nbr_aya": 4
+  },
+  {
+    "num_soura": 113,
+    "soura": "الفَلَق",
+    "num_page": 604,
+    "nbr_aya": 5
+  },
+  {
+    "num_soura": 114,
+    "soura": "النَّاس",
+    "num_page": 604,
+    "nbr_aya": 6
+  }
+]
