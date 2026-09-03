@@ -1,0 +1,182 @@
+{
+ "name": "page1",
+ "audio_file": "G:/trabelsi-pages/001.mp3",
+ "audio_start_pos": 0,
+ "recording_duration": 49006,
+ "events": [
+  {
+   "time": 350,
+   "word_id": 1,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 730,
+   "word_id": 2,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 1310,
+   "word_id": 3,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 2710,
+   "word_id": 4,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 5290,
+   "word_id": 6,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 7050,
+   "word_id": 7,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 8050,
+   "word_id": 8,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 8690,
+   "word_id": 9,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 11890,
+   "word_id": 11,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 13250,
+   "word_id": 12,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 16490,
+   "word_id": 14,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 17190,
+   "word_id": 15,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 18090,
+   "word_id": 16,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 21070,
+   "word_id": 18,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 22170,
+   "word_id": 19,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 22990,
+   "word_id": 20,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 24510,
+   "word_id": 21,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 27450,
+   "word_id": 23,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 28270,
+   "word_id": 24,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 29370,
+   "word_id": 25,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 32010,
+   "word_id": 27,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 33490,
+   "word_id": 28,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 34590,
+   "word_id": 29,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 35810,
+   "word_id": 30,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 36930,
+   "word_id": 31,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 37670,
+   "word_id": 32,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 39110,
+   "word_id": 33,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 40410,
+   "word_id": 34,
+   "action": "show",
+   "page": "1"
+  },
+  {
+   "time": 40970,
+   "word_id": 35,
+   "action": "show",
+   "page": "1"
+  }
+ ]
+}

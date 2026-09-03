@@ -1,0 +1,140 @@
+{
+ "name": "page603",
+ "audio_file": "G:/trav_quran2/audio/trabelsi/111.mp3",
+ "audio_start_pos": 0,
+ "recording_duration": 33776,
+ "events": [
+  {
+   "time": 5650,
+   "word_id": 46,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 6570,
+   "word_id": 47,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 7530,
+   "word_id": 48,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 8050,
+   "word_id": 49,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 8790,
+   "word_id": 50,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 11590,
+   "word_id": 51,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 12010,
+   "word_id": 52,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 13110,
+   "word_id": 53,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 13870,
+   "word_id": 54,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 14870,
+   "word_id": 55,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 15670,
+   "word_id": 56,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 17190,
+   "word_id": 57,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 18470,
+   "word_id": 58,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 19470,
+   "word_id": 59,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 20950,
+   "word_id": 60,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 22470,
+   "word_id": 61,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 23870,
+   "word_id": 62,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 26190,
+   "word_id": 63,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 26350,
+   "word_id": 64,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 28330,
+   "word_id": 65,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 29630,
+   "word_id": 66,
+   "action": "show",
+   "page": "603"
+  },
+  {
+   "time": 30450,
+   "word_id": 67,
+   "action": "show",
+   "page": "603"
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+  "name": "page601",
+  "audio_file": "G:/trav_quran2/audio/trabelsi/104.mp3",
+  "audio_start_pos": 0,
+  "recording_duration": 49722,
+  "events": [
+    {
+      "time": 5162,
+      "word_id": 17,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 6530,
+      "word_id": 18,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 7758,
+      "word_id": 19,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 8662,
+      "word_id": 20,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 10332,
+      "word_id": 22,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 11449,
+      "word_id": 23,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 12306,
+      "word_id": 24,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 13244,
+      "word_id": 25,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 15544,
+      "word_id": 26,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 16692,
+      "word_id": 27,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 18357,
+      "word_id": 28,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 19794,
+      "word_id": 29,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 20968,
+      "word_id": 31,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 23061,
+      "word_id": 32,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 25116,
+      "word_id": 33,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 26254,
+      "word_id": 34,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 27806,
+      "word_id": 35,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 28678,
+      "word_id": 36,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 29556,
+      "word_id": 37,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 30153,
+      "word_id": 38,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 31459,
+      "word_id": 40,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 32349,
+      "word_id": 41,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 33418,
+      "word_id": 42,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 35400,
+      "word_id": 44,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 36584,
+      "word_id": 45,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 37661,
+      "word_id": 46,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 38318,
+      "word_id": 47,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 40104,
+      "word_id": 49,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 41943,
+      "word_id": 50,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 43700,
+      "word_id": 51,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 45209,
+      "word_id": 53,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 46013,
+      "word_id": 54,
+      "action": "show",
+      "page": "601"
+    },
+    {
+      "time": 47550,
+      "word_id": 55,
+      "action": "show",
+      "page": "601"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+ "name": "page604",
+ "audio_file": "G:/trav_quran2/audio/trabelsi/114.mp3",
+ "audio_start_pos": 0,
+ "recording_duration": 36310,
+ "events": [
+  {
+   "time": 5390,
+   "word_id": 39,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 5890,
+   "word_id": 40,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 6750,
+   "word_id": 41,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 7470,
+   "word_id": 42,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 10090,
+   "word_id": 43,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 10790,
+   "word_id": 44,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 13430,
+   "word_id": 45,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 14370,
+   "word_id": 46,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 16910,
+   "word_id": 47,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 17610,
+   "word_id": 48,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 18890,
+   "word_id": 49,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 20410,
+   "word_id": 50,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 23930,
+   "word_id": 51,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 24790,
+   "word_id": 52,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 26230,
+   "word_id": 53,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 26670,
+   "word_id": 54,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 27830,
+   "word_id": 55,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 30190,
+   "word_id": 56,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 30710,
+   "word_id": 57,
+   "action": "show",
+   "page": "604"
+  },
+  {
+   "time": 32850,
+   "word_id": 58,
+   "action": "show",
+   "page": "604"
+  }
+ ]
+}
